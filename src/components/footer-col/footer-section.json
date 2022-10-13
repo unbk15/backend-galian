@@ -1,0 +1,19 @@
+{
+  "collectionName": "components_footer_section_footer_sections",
+  "info": {
+    "displayName": "footerCol",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "heading": {
+      "type": "string",
+      "required": false
+    },
+    "links": {
+      "type": "component",
+      "repeatable": true,
+      "component": "link.link"
+    }
+  }
+}
